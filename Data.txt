@@ -1,1 +1,1 @@
-Hello!, This is Word Counting App, Created By Shinjan Singha At The Age Of 12 Years Old!
+Hello!, This is Word Counting App, Created By Shinjan Singha At 12 Years Old!, This is an example file, You Can Delete this file and Paste your file and count it's words :)
